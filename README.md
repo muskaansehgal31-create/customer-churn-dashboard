@@ -16,7 +16,7 @@ This project analyzes customer churn and retention patterns using Microsoft Powe
 
 # 📊 Dashboard Preview
 
-![Dashboard](./image-dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 
 # 🔍 Key Insights
