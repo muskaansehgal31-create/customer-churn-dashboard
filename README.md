@@ -56,3 +56,7 @@ This project analyzes customer churn and retention patterns using Microsoft Powe
 - Data Cleaning & Transformation
 
 - Data Visualization
+
+## Conclusion
+
+Customer churn is highest among new and month-to-month customers, while long-term customers show strong retention. Businesses can reduce churn by improving onboarding, offering long-term incentives, and optimizing pricing strategies.
