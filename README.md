@@ -16,7 +16,7 @@ This project analyzes customer churn and retention patterns using Microsoft Powe
 
 # 📊 Dashboard Preview
 
-(dashboard.png)
+![Dashboard](./image-dashboard.png)
 
 
 # 🔍 Key Insights
@@ -43,16 +43,16 @@ This project analyzes customer churn and retention patterns using Microsoft Powe
 
 - Offer discounts for long-term plans.
 
--Improve onboarding experience.
+- Improve onboarding experience.
 
--Focus on early-stage customer engagement.
+- Focus on early-stage customer engagement.
 
--Optimize pricing strategies.
+- Optimize pricing strategies.
 
 # 🛠 Tools Used
 
 - Power BI
 
--Data Cleaning & Transformation
+- Data Cleaning & Transformation
 
-Data Visualization
+- Data Visualization
